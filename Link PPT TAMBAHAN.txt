@@ -1,0 +1,20 @@
+-Elastic Load Balancing and Auto Scaling
+https://docs.google.com/presentation/d/1rimCs6ALF88m_6SvhsULRiC2UqsrqD_X/edit#slide=id.p1
+
+-AWS IAM
+https://docs.google.com/presentation/d/1od06-tsZt559U_q0crjXsJziE8psmR7T/edit#slide=id.p1
+
+-AWS EC2 (Basic)
+https://docs.google.com/presentation/d/1vSJ9WKoxGIV0yu40N9K90jcyEuFzuQJj/edit#slide=id.p1
+
+-AWS EC2 (Advanced)
+https://docs.google.com/presentation/d/11OxskmGh_NgGtHVD-oQHedaUCFfQBL9M/edit#slide=id.p1
+
+-DNS, Caching, and Perfomance Optimization
+https://docs.google.com/presentation/d/1YJkulGMB9npp5GhsVgSGFHuRRO7cqQCl/edit#slide=id.p1
+
+-Container
+https://docs.google.com/presentation/d/1hvhZOO5z-6UwuOFJZcTx1m13vSdR5RWS/edit#slide=id.p1 
+
+-Databases and Analytics
+https://docs.google.com/presentation/d/1WvzuyAbBgzeq47_Y07nyduf--r4K2jHl/edit 
